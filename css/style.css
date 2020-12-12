@@ -1,0 +1,93 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+     background-color: #78b3b3;
+     
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:rgb(59, 59, 150);
+}
+
+#home-section{
+    background: url(../img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;;
+}
+
+#home-section  .home-inner{
+    padding-top: 250px;
+}
+
+#about  p{
+    text-align: justify;
+}
+
+.abt{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+.serve{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+#services {
+    text-align: justify;
+}
+
+.text-center{
+     color:rgb(59, 59, 150);;
+}
+
+h1.text-center{
+    font-size:80px ;
+}
+
+#footer{
+    background-color: #83a0a0;
+    width:100vw ;
+    height: 35vh;
+    margin-top: 250px;
+   
+}
+
+p.copyright{
+    font-size: 30px;
+}
+
+.icon{
+    padding-right: 4rem;
+    color:#a82899
+}
+
+.icons{
+    
+    color:#a82899
+}
+
+.foot{
+    padding-top: 4rem;
+   
+}
+
+@media only screen and (max-width:600px){
+    h1.text-center{
+        font-size:35px ;
+    }
+
+}
+
+.love{
+    color:#a82899 
+}
+
+p.acknowledge{
+    margin-bottom: -7rem;
+}
+
