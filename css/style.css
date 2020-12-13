@@ -23,8 +23,14 @@ html{
     padding-top: 250px;
 }
 
-#about  p{
+ #about  p{
     text-align: justify;
+}
+
+h4.home{
+    text-align:justify;
+    padding-top:4rem ;
+    color: #2b9c9c;
 }
 
 .abt{
@@ -79,7 +85,10 @@ p.copyright{
 @media only screen and (max-width:600px){
     h1.text-center{
         font-size:35px ;
+        padding-top: 7rem;
     }
+
+    
 
 }
 
